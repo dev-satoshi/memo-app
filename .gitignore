@@ -1,0 +1,8 @@
+# ローカルで生成されたファイルを無視する
+dist/
+build/
+.DS_Store
+
+# IDEやエディタの設定ファイルを無視する
+.vscode/
+.idea/
